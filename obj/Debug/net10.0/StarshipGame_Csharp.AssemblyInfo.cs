@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarshipGame_Csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e78a6f87387f09bec013f54db266b7d5db746a61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+583a940bd4bcb216d3be16153f5fa06a8a2047e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarshipGame_Csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarshipGame_Csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
